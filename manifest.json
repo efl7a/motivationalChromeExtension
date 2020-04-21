@@ -1,0 +1,26 @@
+{
+    "name": "Motivational Distraction",
+    "version": "1.0",
+    "description": "First extension to help with procastination",
+    "manifest_version": 2,
+    "content_scripts": [
+      {
+        "matches": ["https://www.youtube.com/*"],
+        "js": ["./resources/jquery.min.js", "./main.js"]
+      }
+    ],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "icons": {
+      "48": "resources/images/dog48.png",
+      "128": "resources/images/dog128.png"
+    },
+    "web_accessible_resources": [
+      "resources/**"
+    ],
+    "permissions": [
+      "tabs"
+    ]
+}

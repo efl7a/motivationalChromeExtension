@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-size: 62.5%; //1rem = 10px arrived by 10px/default font-size of browsers(16px)
+}
+body {
+  font-family: "Mukta", "Roboto", sans serif;
+  text-align: center;
+  background-color: #c5c6c7;
+}
+.popup {
+  height: 75vh;
+  width: 75%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #45a29e;
+  padding: 5rem;
+  /* border: 1px solid black; */
+  border-radius: 2rem;
+  box-shadow: 0 1rem 4rem black;
+  z-index: 1000;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.photoInfoContainer {
+
+}
+.imgContainer {
+  padding: 2rem;
+  flex-grow: 1
+}
+#photoInfo {
+  font-size: 1.5rem;
+  padding: 2rem 0;
+  color: #1f2833;
+}
+#heading {
+  font-size: 2.5rem;
+  line-height: 3rem;
+  padding: 2rem;
+  margin: 2rem;
+  background: orange;
+}
+#motivationalImage {
+  max-width: 75%;
+  border-radius: 3rem;
+}
+#btn {
+  font-size: 1.5rem;
+  background-color: blue;
+  color: white;
+  padding: 2rem;
+  border-radius: 2rem;
+  margin: 2rem;
+}
+#btn:focus {
+  outline: none;
+}
+
+/* https://visme.co/blog/website-color-schemes/ */
