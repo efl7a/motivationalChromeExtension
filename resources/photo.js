@@ -481,26 +481,6 @@ export const photos =
             "liked": false
         },
         {
-            "id": 1228483,
-            "width": 3815,
-            "height": 2543,
-            "url": "https://www.pexels.com/photo/green-and-white-cactus-table-decor-on-gray-steel-file-cabinet-1228483/",
-            "photographer": "Designecologist",
-            "photographer_url": "https://www.pexels.com/@designecologist",
-            "photographer_id": 256585,
-            "src": {
-                "original": "https://images.pexels.com/photos/1228483/pexels-photo-1228483.jpeg",
-                "large2x": "https://images.pexels.com/photos/1228483/pexels-photo-1228483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                "large": "https://images.pexels.com/photos/1228483/pexels-photo-1228483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-                "medium": "https://images.pexels.com/photos/1228483/pexels-photo-1228483.jpeg?auto=compress&cs=tinysrgb&h=350",
-                "small": "https://images.pexels.com/photos/1228483/pexels-photo-1228483.jpeg?auto=compress&cs=tinysrgb&h=130",
-                "portrait": "https://images.pexels.com/photos/1228483/pexels-photo-1228483.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-                "landscape": "https://images.pexels.com/photos/1228483/pexels-photo-1228483.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-                "tiny": "https://images.pexels.com/photos/1228483/pexels-photo-1228483.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-            },
-            "liked": false
-        },
-        {
             "id": 1374525,
             "width": 2976,
             "height": 3968,
@@ -1357,46 +1337,6 @@ export const photos =
                 "portrait": "https://images.pexels.com/photos/3961749/pexels-photo-3961749.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
                 "landscape": "https://images.pexels.com/photos/3961749/pexels-photo-3961749.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
                 "tiny": "https://images.pexels.com/photos/3961749/pexels-photo-3961749.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-            },
-            "liked": false
-        },
-        {
-            "id": 2402452,
-            "width": 4160,
-            "height": 6240,
-            "url": "https://www.pexels.com/photo/man-leaning-on-wall-2402452/",
-            "photographer": "Luis Quintero",
-            "photographer_url": "https://www.pexels.com/@jibarofoto",
-            "photographer_id": 447123,
-            "src": {
-                "original": "https://images.pexels.com/photos/2402452/pexels-photo-2402452.jpeg",
-                "large2x": "https://images.pexels.com/photos/2402452/pexels-photo-2402452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                "large": "https://images.pexels.com/photos/2402452/pexels-photo-2402452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-                "medium": "https://images.pexels.com/photos/2402452/pexels-photo-2402452.jpeg?auto=compress&cs=tinysrgb&h=350",
-                "small": "https://images.pexels.com/photos/2402452/pexels-photo-2402452.jpeg?auto=compress&cs=tinysrgb&h=130",
-                "portrait": "https://images.pexels.com/photos/2402452/pexels-photo-2402452.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-                "landscape": "https://images.pexels.com/photos/2402452/pexels-photo-2402452.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-                "tiny": "https://images.pexels.com/photos/2402452/pexels-photo-2402452.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
-            },
-            "liked": false
-        },
-        {
-            "id": 2228571,
-            "width": 7952,
-            "height": 5304,
-            "url": "https://www.pexels.com/photo/person-holding-purple-sticky-note-2228571/",
-            "photographer": "Thought Catalog",
-            "photographer_url": "https://www.pexels.com/@thought-catalog-317580",
-            "photographer_id": 317580,
-            "src": {
-                "original": "https://images.pexels.com/photos/2228571/pexels-photo-2228571.jpeg",
-                "large2x": "https://images.pexels.com/photos/2228571/pexels-photo-2228571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                "large": "https://images.pexels.com/photos/2228571/pexels-photo-2228571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-                "medium": "https://images.pexels.com/photos/2228571/pexels-photo-2228571.jpeg?auto=compress&cs=tinysrgb&h=350",
-                "small": "https://images.pexels.com/photos/2228571/pexels-photo-2228571.jpeg?auto=compress&cs=tinysrgb&h=130",
-                "portrait": "https://images.pexels.com/photos/2228571/pexels-photo-2228571.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
-                "landscape": "https://images.pexels.com/photos/2228571/pexels-photo-2228571.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
-                "tiny": "https://images.pexels.com/photos/2228571/pexels-photo-2228571.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
             },
             "liked": false
         },
