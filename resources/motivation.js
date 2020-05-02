@@ -1,5 +1,5 @@
 //Import array of motivational photos
-import { photos } from './photo.js';
+import { wantedPhotos as photos } from './photo.js';
 
 //HTML elements
 
@@ -17,8 +17,8 @@ const customImg = [
 
 
 //Determine whether to use personal or random img and quote
-let randomNum = Math.floor(Math.random() * Math.floor(100));
-if ( randomNum >= 80) {
+let randomNum = Math.floor(Math.random() * Math.floor(70));
+if ( randomNum >= (photos.length - 1)) {
   motivationalImage.attr("src", chrome.runtime.getURL(customImg[Math.floor(Math.random() * Math.floor(3))]));
   photoInfoContainer.remove();
 } else {
